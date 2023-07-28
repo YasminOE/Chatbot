@@ -33,7 +33,7 @@ To use the chatbot with the OpenAI API, you'll need an API key from OpenAI. Visi
 Once you have your API key, create a file named `.env` in the root of the project and add the following line:
 
 
-Replace `your_openai_api_key_here` with your actual API key. This file will be used to securely store your API key and will be automatically read by the chatbot.
+Replace `add-your-open-ai-key-here` with your actual API key. This file will be used to securely store your API key and will be automatically read by the chatbot.
 
 ## Contributions
 
